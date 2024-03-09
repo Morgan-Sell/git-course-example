@@ -7,3 +7,5 @@ We are learning how to make commits without best practices.
 hi 
 
 goodbye
+
+docs
